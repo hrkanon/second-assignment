@@ -1,0 +1,45 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+header{
+    background-color: papayawhip;
+    justify-content: space-between;
+}
+.first-sec{
+    margin-left: 20%;
+}
+.container-fluid img{
+    width: 50%;
+}
+.col-md-6 img{
+    width: 70%;
+}
+.card img{
+    border-radius: 40px;
+    width: 100%;
+    height: 350px;
+    object-fit: scale-down;
+}
+.last-first-sec img{
+    width:75px;
+    height:90px;
+}
+
+.icon{
+    height: 80em;
+}
+.jacket-card{
+    border: 0;
+}
+.jacket-card-footer{
+    border: 0;
+    background-color: white;
+}
+
+.price{
+    color: orange;
+    float: left;
+}
+.button{
+    float:right
+}
