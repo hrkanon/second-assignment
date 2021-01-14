@@ -21,12 +21,18 @@ header{
     object-fit: scale-down;
 }
 .last-first-sec img{
-    width:75px;
-    height:90px;
+    width: 5em;
 }
-
-.icon{
-    height: 80em;
+.last-first-sec{
+    margin-top: 5px;
+    padding= 5%;
+}
+.last-sec img{
+    width: 100%;
+}
+.head-p{
+    margin-left: 5%;
+    padding: 5%;
 }
 .jacket-card{
     border: 0;
