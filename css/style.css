@@ -5,6 +5,12 @@ header{
     background-color: papayawhip;
     justify-content: space-between;
 }
+h1{
+    font-weight: 700px;
+}
+span{
+    color: rgb(253, 192, 38);
+}
 .first-sec{
     margin-left: 20%;
 }
@@ -20,19 +26,19 @@ header{
     height: 350px;
     object-fit: scale-down;
 }
+.last-section{
+   margin-top: 10em;
+   margin-bottom: 10em;
+}
 .last-first-sec img{
     width: 5em;
 }
-.last-first-sec{
-    margin-top: 5px;
-    padding= 5%;
-}
 .last-sec img{
     width: 100%;
+    height: 400px;
 }
 .head-p{
     margin-left: 5%;
-    padding: 5%;
 }
 .jacket-card{
     border: 0;
