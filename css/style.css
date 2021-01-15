@@ -8,7 +8,7 @@ header{
 h1{
     font-weight: 700px;
 }
-span{
+#title{
     color: rgb(253, 192, 38);
 }
 .first-sec{
@@ -21,7 +21,7 @@ span{
     width: 70%;
 }
 .card img{
-    border-radius: 40px;
+     border-radius: 40px;
     width: 100%;
     object-fit: cover;
     background: rgb(216, 213, 213);
