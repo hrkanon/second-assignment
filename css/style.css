@@ -23,6 +23,7 @@ span{
 .card img{
     border-radius: 40px;
     width: 100%;
+    background: rgb(216, 213, 213);
     height: 350px;
     object-fit: scale-down;
 }
