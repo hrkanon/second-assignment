@@ -11,6 +11,9 @@ h1{
 #title{
     color: rgb(253, 192, 38);
 }
+span{
+    color: #9dd65b;
+}
 .first-sec{
     margin-left: 20%;
 }
@@ -39,9 +42,6 @@ h1{
     width: 100%;
     height: 400px;
 }
-.head-p{
-    margin-left: 5%;
-}
 .jacket-card{
     border: 0;
 }
@@ -49,7 +49,12 @@ h1{
     border: 0;
     background-color: white;
 }
-
+h1{
+    font-weight: 800;
+}
+h2{
+    font-weight: 800;
+}
 .price{
     color: orange;
     float: left;
@@ -57,8 +62,4 @@ h1{
 .button{
     float:right
 }
-@media (max-width:992px){
-    .main{
-        grid-template-columns: repeat(2, 1fr) ;
-    }
-}
+
